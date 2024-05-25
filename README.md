@@ -2,6 +2,7 @@
 ![image](https://github.com/leaandropinheiro/EFI-COFFEE-LAKE/assets/96609362/12eeaf18-f4c5-49c8-8984-126ecfa137ea)
 
 **Latest working macOS**: 14.5
+<br>
 **Current OpenCore**: 1.0.0
 
 ## Complete hardware specs
