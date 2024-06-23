@@ -1,5 +1,6 @@
 # EFI Gigabyte Z390M Gaming - i5 9600K
-![image](https://github.com/leaandropinheiro/EFI-COFFEE-LAKE/assets/96609362/12eeaf18-f4c5-49c8-8984-126ecfa137ea)
+![image](https://github.com/leaandropinheiro/EFI-Gigabyte-Z390M-Gaming-i5-9600K/assets/96609362/b407eb52-3107-4659-9d2c-7c607820bef2)
+
 
 **Latest working macOS**: 14.5
 <br>
